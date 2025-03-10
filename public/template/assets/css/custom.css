@@ -1,0 +1,18 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+.main-sidebar .sidebar-brand {
+  line-height: 1.2; /* Jarak antar baris lebih rapat */
+  height: auto; /* Tinggi menyesuaikan konten */
+  padding: 10px 0; /* Jarak tambahan untuk estetika */
+}
+
+.main-sidebar .sidebar-brand a {
+  display: block; /* Supaya lebih rapi */
+}
